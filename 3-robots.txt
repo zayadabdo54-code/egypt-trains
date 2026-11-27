@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zayadabdo54-code.github.io/egypt-trains/sitemap.xml
